@@ -1,0 +1,1 @@
+I completed the project exercise "landing page" of the odin project
